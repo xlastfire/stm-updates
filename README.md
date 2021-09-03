@@ -12,7 +12,6 @@ Just needs only credentials.
 - Clone this repo:
 ```
 git clone https://github.com/xlastfire/stm_updates/
-cd mirrorbot
 ```
 
 - Install requirements 
