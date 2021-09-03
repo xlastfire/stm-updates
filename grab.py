@@ -56,7 +56,7 @@ def de_emojify(text):
 
 
 def main():
-    to_console = True
+    to_console = False
 
     output_path = 'emails.txt'
     f = open(output_path, 'w', encoding='utf-8')
